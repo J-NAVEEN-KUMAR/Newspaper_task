@@ -1,0 +1,27 @@
+h1{
+  font-size: 6vw;
+}
+
+body{
+  background-color: rgb(255, 255, 255);
+  line-height: 1.2;
+  font-size: 15px;
+  padding: 15px;
+  border:20px solid gray;
+}
+
+.leftblock{
+  background-color: rgb(236, 232, 232);
+}
+.sidebar{
+  background-color: #0077b6;
+  text-align: center;
+  padding: 0;
+}
+.rightblock1{
+  background-color: beige;
+  width: 100%;
+  font-size: 15px;
+  height: 25%;
+  padding: 5px;
+}
